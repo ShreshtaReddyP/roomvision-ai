@@ -1,0 +1,29 @@
+:root {
+  /* Palette */
+  --ivory: #f6f1e7;
+  --paper: #fbf8f2;
+  --beige: #e8decb;
+  --sand: #d9cbb0;
+  --sage: #8c9c84;
+  --sage-deep: #5b6b56;
+  --charcoal: #2a2926;
+  --ink-soft: #5d5a54;
+  --terracotta: #b5654a;
+  --terracotta-deep: #97513a;
+  --line: rgba(42, 41, 38, 0.14);
+  --danger-bg: #f6e3dc;
+  --warn-bg: #f3ead2;
+
+  /* Type */
+  --font-display: "Newsreader", "Iowan Old Style", Georgia, "Times New Roman", serif;
+  --font-body: "DM Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  /* Shape */
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 10px;
+  --shadow-soft: 0 24px 48px -28px rgba(42, 41, 38, 0.45);
+  --shadow-lift: 0 10px 24px -14px rgba(42, 41, 38, 0.4);
+
+  --page-width: 1180px;
+}
